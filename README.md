@@ -18,6 +18,7 @@ A custom hash table is used for efficient word counting, and Python's `heapq` li
 
 ### Files
 - `hash_map.py` – custom hash table implementation
+- `heap_utils.py` - used heapq library to top k using max heap and atleast k using min heap.
 - `data_analysis.py` – loads dataset, preprocesses text, performs analysis
 - `app.py` – Streamlit frontend
 - `outputs/results.json` – saved results
